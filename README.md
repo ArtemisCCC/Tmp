@@ -24,25 +24,26 @@
 
 
 <div align="center">
-  
-  <span style="margin-right: 10px;">
-    [![GitHub stars](https://badgen.net/github/stars/ShutaoChen97/IIDL-PepPI)](https://GitHub.com/ShutaoChen97/IIDL-PepPI/stargazers/)
-  </span>
-  <span style="margin-right: 10px;">
-    [![GitHub watchers](https://badgen.net/github/watchers/ShutaoChen97/IIDL-PepPI/)](https://GitHub.com/ShutaoChen97/IIDL-PepPI/watchers/)
-  </span>
-  <span style="margin-right: 10px;">
-    [![GitHub forks](https://badgen.net/github/forks/ShutaoChen97/IIDL-PepPI/)](https://GitHub.com/ShutaoChen97/IIDL-PepPI/network/)
-  </span>
-  <span style="margin-right: 10px;">
-    [![GitHub issues](https://badgen.net/github/issues/ShutaoChen97/IIDL-PepPI/?color=red)](https://GitHub.com/ShutaoChen97/IIDL-PepPI/issues/)
-  </span>
-  <span style="margin-right: 10px;">
-    [![GitHub license](https://img.shields.io/github/license/ShutaoChen97/IIDL-PepPI.svg)](https://github.com/ShutaoChen97/IIDL-PepPI/blob/master/LICENSE)
-  </span>
-  <span style="margin-right: 10px;">
-    [![Zenodo DOI:10.5281/zenodo.10240298](https://zenodo.org/badge/DOI/10.1007/978-3-319-76207-4_15.svg)](https://doi.org/10.5281/zenodo.10240298)
-  </span>
+
+  <a href="https://GitHub.com/ShutaoChen97/IIDL-PepPI/stargazers/" style="margin-right: 10px;">
+    <img src="https://badgen.net/github/stars/ShutaoChen97/IIDL-PepPI" alt="GitHub stars"/>
+  </a>
+  <a href="https://GitHub.com/ShutaoChen97/IIDL-PepPI/watchers/" style="margin-right: 10px;">
+    <img src="https://badgen.net/github/watchers/ShutaoChen97/IIDL-PepPI" alt="GitHub watchers"/>
+  </a>
+  <a href="https://GitHub.com/ShutaoChen97/IIDL-PepPI/network/" style="margin-right: 10px;">
+    <img src="https://badgen.net/github/forks/ShutaoChen97/IIDL-PepPI" alt="GitHub forks"/>
+  </a>
+  <a href="https://GitHub.com/ShutaoChen97/IIDL-PepPI/issues/" style="margin-right: 10px;">
+    <img src="https://badgen.net/github/issues/ShutaoChen97/IIDL-PepPI/?color=red" alt="GitHub issues"/>
+  </a>
+  <a href="https://github.com/ShutaoChen97/IIDL-PepPI/blob/master/LICENSE" style="margin-right: 10px;">
+    <img src="https://img.shields.io/github/license/ShutaoChen97/IIDL-PepPI.svg" alt="GitHub license"/>
+  </a>
+  <a href="https://doi.org/10.5281/zenodo.10240298" style="margin-right: 10px;">
+    <img src="https://zenodo.org/badge/DOI/10.1007/978-3-319-76207-4_15.svg" alt="Zenodo DOI"/>
+  </a>
 
 </div>
+
 
